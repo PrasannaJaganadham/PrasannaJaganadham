@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Prasanna Jaganadham
 
-<!--
-**PrasannaJaganadham/PrasannaJaganadham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Aesthetic Computer](https://thumb.ac-illust.com/3c/3cd87a35c82a9cfdbcfbe997f82b65c9_t.jpeg)
 
-Here are some ideas to get you started:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70" /> About Me:
+- 🔭 I’m currently a **Student**.
+- 🌱 I’m currently learning **Machine Learning and Data Science, Alteryx for data preparation and transformation**.
+- 👯 I’m looking to collaborate on **Projects involving data analysis and business strategy**.
+- 🤝 I’m looking for help with **Enhancing my skills in Python, SQL for data analysis, and Web development**.
+- 👨‍💻 All of my projects are available at [https://github.com/PrasannaJaganadham](https://github.com/PrasannaJaganadham).
+- 💬 Ask me about **My experience with Finacle and its implementation in banking operations**.
+- 📫 How to reach me: **prasannajaganadham.getme@gmail.com**.
+- ⚡ Fun fact: **I know a little French**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/prasannajaganadham" target="blank">
+        <img align="center" src="https://www.antevenio.com/wp-content/uploads/2020/08/LinkedIn-Blog.png" alt="prasannajaganadham" height="50" width="50" />
+    </a>   
+</p>
+
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="8O" height="80"/> 
+    </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="60"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="60"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="60"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="60"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="60"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="60"/> 
+    </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="60"/> 
+    </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="60"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="60"/> 
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="80" height="60"/> 
+    </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.atptech.com/wp-content/uploads/photo_powerbi.jpg" alt="powerbi" width="80" height="60"/> 
+    </a>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasannajaganadham&show_icons=true&locale=en&layout=compact" alt="prasannajaganadham" /></p>
+
