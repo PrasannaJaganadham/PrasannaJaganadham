@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/prasannajaganadham" target="blank">
+    <a href="https://www.linkedin.com/in/prasanna-jaganadham/" target="blank">
         <img align="center" src="https://www.antevenio.com/wp-content/uploads/2020/08/LinkedIn-Blog.png" alt="prasannajaganadham" height="50" width="50" />
     </a>   
 </p>
